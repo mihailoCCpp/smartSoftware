@@ -1,0 +1,241 @@
+﻿<Window x:Class="SmartSoftware.RezervacijePregledProzor"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:wpfToolkit ="http://schemas.xceed.com/wpf/xaml/toolkit"
+        Closed="Window_Closed"
+        WindowStartupLocation="CenterScreen"
+        Title="RezervacijePregledProzor" Height="700" Width="900">
+    
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="335"/>
+            <ColumnDefinition Width="15"/>
+            <ColumnDefinition Width="550"/>
+          </Grid.ColumnDefinitions>
+
+        
+        <ListBox Grid.Row="0" Grid.Column="0" Name="lsbKupci"  ItemsSource="{Binding Rezervacije}" IsSynchronizedWithCurrentItem="True"  HorizontalAlignment="Center" VerticalAlignment="Top" HorizontalContentAlignment="Center">
+            
+            <ListBox.ItemTemplate>
+                <DataTemplate >
+
+                    <Grid Grid.Row="0" Grid.Column="0" Height="110" Width="320" HorizontalAlignment="Center" VerticalAlignment="Center" Name="grdKupci" >
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="170" />
+                            <ColumnDefinition Width="170" />
+                        </Grid.ColumnDefinitions>
+
+                        <Grid.Resources>
+                            <Style TargetType="Label">
+                                <Setter Property="HorizontalContentAlignment" Value="Right"/>
+                                <Setter Property="VerticalContentAlignment" Value="Center"/>
+                                <Setter Property="FontStyle" Value="Italic"/>
+                                <Setter Property="Width" Value="170"/>
+                                <Setter Property="FontSize" Value="10"/>
+                            </Style>
+                            <Style TargetType="TextBlock">
+                                <Setter Property="HorizontalAlignment" Value="Left"/>
+                                <Setter Property="VerticalAlignment" Value="Center"/>
+                                <Setter Property="FontStyle" Value="Italic"/>
+                                <Setter Property="Width" Value="170"/>
+                                <Setter Property="FontSize" Value="10"/>
+                            </Style>
+                        </Grid.Resources>
+
+                        <TextBlock Name="skrivenId" Grid.Row="0" Grid.Column="1"  Text="{Binding IdRerezervacije}" Visibility="Hidden"/>
+
+                        <Label Content="Ime :"  Grid.Row="0" Grid.Column="0" FontWeight="Bold" FontStyle="Normal"/>
+                        <TextBlock Name="tblIme" Grid.Row="0" Grid.Column="1"  Text="{Binding Ime}" FontWeight="Bold" FontStyle="Normal"/>
+
+                        <Label Content="Datum Rezervacije :" Grid.Row="1" Grid.Column="0"/>
+                        <TextBlock Name="tblDatumRezervacije" Grid.Row="1" Grid.Column="1"  Text="{Binding DatumRezervacije}" />
+
+                        <Label Content="Datum isteka rezervacije :" Grid.Row="2" Grid.Column="0"/>
+                        <TextBlock Name="tblDatumIstekaRezervacije"  Grid.Row="2"  Grid.Column="1" Text="{Binding DatumIstekaRezervacije}" />
+
+                        <Label Content="Datum ažuriranja rezervacije :" Grid.Row="3" Grid.Column="0"/>
+                        <TextBlock Name="tblDatumAzuriranjaRezervacije" Grid.Row="3" Grid.Column="1"  Text="{Binding DatumAzuriranjaRezervacije}" />
+
+                    </Grid>
+
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+            
+            <ListBox.Resources>
+                <Style  TargetType ="ListBoxItem">
+                    <Setter Property="Background" Value="Beige"/>
+
+
+
+                    <!--<Style.Triggers>
+                        <Trigger Property="IsSelected" Value="True">
+                            <Setter Property="Background" Value="Red"/>
+                        </Trigger>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="Red" />
+                        </Trigger>
+                    </Style.Triggers>-->
+
+                </Style>
+            </ListBox.Resources>
+        </ListBox>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="0" Grid.Column="1" VerticalAlignment="Stretch" HorizontalAlignment="Center">
+            <Separator Style="{StaticResource {x:Static ToolBar.SeparatorStyleKey}}"/>
+        </StackPanel>
+
+        <ListBox Name="pera"  IsSynchronizedWithCurrentItem="True" ItemsSource="{Binding Rezervacije/Oprema, UpdateSourceTrigger=PropertyChanged}"  Grid.Column="2" VerticalAlignment="Top" Grid.Row="0" HorizontalAlignment="Left" Focusable="False" >
+            
+            <ListBox.ItemTemplate>
+                
+                <DataTemplate>
+
+                    <Grid Width="520" HorizontalAlignment="Center" VerticalAlignment="Center">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="40"/>
+                            <RowDefinition Height="2"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="2"/>
+                            <RowDefinition Height="40"/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="130"/>
+                        </Grid.ColumnDefinitions>
+                        
+                        <Grid.Resources>
+                            <Style TargetType="Label">
+                                <Setter Property="HorizontalContentAlignment" Value="Right"/>
+                                <Setter Property="VerticalContentAlignment" Value="Center"/>
+                                <Setter Property="VerticalAlignment" Value="Center"/>
+                                <Setter Property="FontWeight" Value="Bold"/>
+                                <Setter Property="Height" Value="25"/>
+                                <Setter Property="FontSize" Value="10"/>
+                            </Style>
+                            <Style TargetType="TextBlock">
+                                <Setter Property="Width" Value="100"/>
+                                <Setter Property="MaxHeight" Value="50"/>
+                                <Setter Property="HorizontalAlignment" Value="Left"/>
+                                <Setter Property="VerticalAlignment" Value="Center"/>
+                                <Setter Property="FontStyle" Value="Italic"/>
+                                <Setter Property="FontSize" Value="10"/>
+                            </Style>
+                        </Grid.Resources>
+
+                        <TextBlock Grid.Row="0"  Text="{Binding Name }" TextWrapping="Wrap" FontSize="14" Width="Auto" HorizontalAlignment="Center" FontStyle="Normal" />
+
+                        <TextBlock Background="Green" Foreground="White" Grid.Row="0" Grid.Column="1"  Text="{Binding Path=SumCena, StringFormat={}ukupna cena: {0}}" VerticalAlignment="Center" HorizontalAlignment="Center" Width="Auto" Padding="5,0"/>
+                        
+                        <StackPanel Orientation="Vertical" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="5" VerticalAlignment="Center" HorizontalAlignment="Stretch">
+                            <Separator Style="{StaticResource {x:Static ToolBar.SeparatorStyleKey}}"/>
+                        </StackPanel>
+                        
+                        <Grid Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="280"/>
+                                <ColumnDefinition Width="2"/>
+                                <ColumnDefinition Width="130"/>
+                            </Grid.ColumnDefinitions>
+                            
+                            <Image  Grid.Row="0" Grid.Column="0" Grid.RowSpan="3" Height="75" Width="75"  Source="{Binding Slika}"/>
+
+                            <Grid Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Text="{Binding IdOprema}" Visibility="Hidden" Name="skrivenId"/>
+
+                                <Label  Grid.Row="0" Grid.Column="0" Content="Proizvođač : " />
+                                <TextBlock  TextWrapping="Wrap" Grid.Row="0" Grid.Column="2" Text="{Binding Proizvodjac}"  />
+
+                                <Label  Grid.Row="1" Grid.Column="0" Content="Model : " />
+                                <TextBlock  TextWrapping="Wrap" Grid.Row="1" Grid.Column="2" Text="{Binding Model}"/>
+
+                                <Label  Grid.Row="2" Grid.Column="0" Content="Opis : " />
+                                <TextBlock  TextWrapping="Wrap" Grid.Row="2" Grid.Column="2" Text="{Binding Opis}" />
+
+                                <Label  Grid.Row="3" Grid.Column="0" Content="Cena po proizvodu : " />
+                                <TextBlock  TextWrapping="Wrap" Grid.Row="3" Grid.Column="2" Text="{Binding Cena}" />
+                                
+                            </Grid>
+                        
+                        
+                            <StackPanel Orientation="Horizontal" Grid.Row="0" Grid.Column="2"  VerticalAlignment="Stretch" HorizontalAlignment="Center">
+                                <Separator Style="{StaticResource {x:Static ToolBar.SeparatorStyleKey}}"/>
+                            </StackPanel>
+                        
+                            <Grid Grid.Row="0" Grid.Column="3" Width="100"  VerticalAlignment="Center" HorizontalAlignment="Center">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+
+
+                                <TextBlock TextWrapping="Wrap" FontSize="10" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" FontWeight="Bold" FontStyle="Normal" Width="Auto"  Text="Količina :" />
+                                <wpfToolkit:ButtonSpinner  Name="kolicina"  Grid.Row="0" Grid.Column="1" >
+                                    <TextBlock HorizontalAlignment="Center" Width="Auto" Text="{Binding TmpIzabranaKolicina}" />
+                                </wpfToolkit:ButtonSpinner>
+                            </Grid>
+
+                        </Grid>
+                        
+                        <StackPanel Orientation="Vertical" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" VerticalAlignment="Center" HorizontalAlignment="Stretch">
+                            <Separator Style="{StaticResource {x:Static ToolBar.SeparatorStyleKey}}"/>
+                        </StackPanel>
+
+                        <Button Grid.Row="4" Grid.Column="1" Height="20" Name="btnObrisiIzRezervacija" Content="Obriši ovaj proizvod" Background="Red" Foreground="White" HorizontalContentAlignment="Right" HorizontalAlignment="Center" VerticalAlignment="Center" Padding="5,0"/>
+                    </Grid>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+        <Grid Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="3" Background="Beige" Name="gridDugmici">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="4*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="50" />
+                    <ColumnDefinition Width="Auto" />
+                </Grid.ColumnDefinitions>
+
+                <Button Grid.Column="2"  Background="Green" Foreground="White" Width="100" Height="30" Grid.Row="0" Content="Dodaj u korpu" Name="btnDodajUKorpu" IsEnabled="False"/>
+            </Grid>
+
+            <Grid Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <Button Background="Red" Foreground="White" Width="120" Height="30" Grid.Row="0" Content="Obriši sve rezervacije"  Name="btnObrisiSveRezervacije"/>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

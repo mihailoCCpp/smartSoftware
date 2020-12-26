@@ -1,0 +1,142 @@
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\obj\Debug\SmartSoftware.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\obj\Debug\AdminPanelProzor.baml
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\obj\Debug\KorpaProzor.baml
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\obj\Debug\KupovinaProzor.baml
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\obj\Debug\PodaciOKupcuProzor.baml
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\obj\Debug\RegistracijaIme.baml
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\obj\Debug\RezervacijePregledProzor.baml
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\obj\Debug\TrenutnaListaRezervacija.baml
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\obj\Debug\AdminPanelProzor.g.cs
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\obj\Debug\GlavniProzor.g.cs
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\obj\Debug\KorpaProzor.g.cs
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\obj\Debug\KupovinaProzor.g.cs
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\obj\Debug\PodaciOKupcuProzor.g.cs
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\obj\Debug\RegistracijaIme.g.cs
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\obj\Debug\RezervacijePregledProzor.g.cs
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\obj\Debug\TrenutnaListaRezervacija.g.cs
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\obj\Debug\SmartSoftware_MarkupCompile.cache
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\obj\Debug\SmartSoftware_MarkupCompile.lref
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\bin\Debug\SmartSoftware.exe.config
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\bin\Debug\SmartSoftware.exe
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\bin\Debug\SmartSoftware.pdb
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\obj\Debug\GlavniProzor.baml
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\obj\Debug\SmartSoftware.g.resources
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\obj\Debug\SmartSoftware.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\obj\Debug\SmartSoftware.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\obj\Debug\SmartSoftware.exe
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftware\obj\Debug\SmartSoftware.pdb
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftware\bin\Debug\SmartSoftware.exe.config
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftware\bin\Debug\SmartSoftware.exe
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftware\bin\Debug\SmartSoftware.pdb
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftware\obj\Debug\AdminPanelProzor.baml
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftware\obj\Debug\KorpaProzor.baml
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftware\obj\Debug\KupovinaProzor.baml
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftware\obj\Debug\MainWindow.baml
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftware\obj\Debug\PodaciOKupcuProzor.baml
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftware\obj\Debug\RegistracijaIme.baml
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftware\obj\Debug\RezervacijePregledProzor.baml
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftware\obj\Debug\TrenutnaListaRezervacija.baml
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftware\obj\Debug\AdminPanelProzor.g.cs
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftware\obj\Debug\GlavniProzor.g.cs
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftware\obj\Debug\KorpaProzor.g.cs
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftware\obj\Debug\KupovinaProzor.g.cs
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftware\obj\Debug\MainWindow.g.cs
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftware\obj\Debug\PodaciOKupcuProzor.g.cs
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftware\obj\Debug\RegistracijaIme.g.cs
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftware\obj\Debug\RezervacijePregledProzor.g.cs
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftware\obj\Debug\TrenutnaListaRezervacija.g.cs
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftware\obj\Debug\App.g.cs
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftware\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftware\obj\Debug\SmartSoftware_MarkupCompile.cache
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftware\obj\Debug\SmartSoftware_MarkupCompile.lref
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftware\obj\Debug\GlavniProzor.baml
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftware\obj\Debug\SmartSoftware.g.resources
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftware\obj\Debug\SmartSoftware.Properties.Resources.resources
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftware\obj\Debug\SmartSoftware.csproj.GenerateResource.Cache
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftware\obj\Debug\SmartSoftware.exe
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftware\obj\Debug\SmartSoftware.pdb
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftware\obj\Debug\SmartSoftware.csprojResolveAssemblyReference.cache
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftware\bin\Debug\SmartSoftware.exe.config
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftware\obj\Debug\SmartSoftware.exe
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftware\obj\Debug\SmartSoftware.pdb
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftware\bin\Debug\SmartSoftware.exe
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftware\bin\Debug\SmartSoftware.pdb
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftware\obj\Debug\SmartSoftware.csprojResolveAssemblyReference.cache
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftware\obj\Debug\AdminPanelProzor.baml
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftware\obj\Debug\KorpaProzor.baml
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftware\obj\Debug\KupovinaProzor.baml
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftware\obj\Debug\MainWindow.baml
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftware\obj\Debug\PodaciOKupcuProzor.baml
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftware\obj\Debug\RegistracijaIme.baml
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftware\obj\Debug\RezervacijePregledProzor.baml
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftware\obj\Debug\TrenutnaListaRezervacija.baml
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftware\obj\Debug\AdminPanelProzor.g.cs
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftware\obj\Debug\GlavniProzor.g.cs
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftware\obj\Debug\KorpaProzor.g.cs
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftware\obj\Debug\KupovinaProzor.g.cs
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftware\obj\Debug\MainWindow.g.cs
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftware\obj\Debug\PodaciOKupcuProzor.g.cs
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftware\obj\Debug\RegistracijaIme.g.cs
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftware\obj\Debug\RezervacijePregledProzor.g.cs
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftware\obj\Debug\TrenutnaListaRezervacija.g.cs
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftware\obj\Debug\App.g.cs
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftware\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftware\obj\Debug\SmartSoftware_MarkupCompile.cache
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftware\obj\Debug\SmartSoftware_MarkupCompile.lref
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftware\obj\Debug\GlavniProzor.baml
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftware\obj\Debug\SmartSoftware.g.resources
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftware\obj\Debug\SmartSoftware.Properties.Resources.resources
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftware\obj\Debug\SmartSoftware.csproj.GenerateResource.Cache
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftware\bin\Debug\SmartSoftware.exe.config
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftware\bin\Debug\SmartSoftware.exe
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftware\obj\Debug\SmartSoftware.csprojAssemblyReference.cache
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftware\obj\Debug\AdminPanelProzor.baml
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftware\obj\Debug\KorpaProzor.baml
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftware\obj\Debug\KupovinaProzor.baml
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftware\obj\Debug\MainWindow.baml
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftware\obj\Debug\PodaciOKupcuProzor.baml
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftware\obj\Debug\RegistracijaIme.baml
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftware\obj\Debug\RezervacijePregledProzor.baml
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftware\obj\Debug\TrenutnaListaRezervacija.baml
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftware\obj\Debug\AdminPanelProzor.g.cs
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftware\obj\Debug\GlavniProzor.g.cs
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftware\obj\Debug\KorpaProzor.g.cs
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftware\obj\Debug\KupovinaProzor.g.cs
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftware\obj\Debug\MainWindow.g.cs
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftware\obj\Debug\PodaciOKupcuProzor.g.cs
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftware\obj\Debug\RegistracijaIme.g.cs
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftware\obj\Debug\RezervacijePregledProzor.g.cs
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftware\obj\Debug\TrenutnaListaRezervacija.g.cs
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftware\obj\Debug\App.g.cs
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftware\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftware\obj\Debug\SmartSoftware_MarkupCompile.cache
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftware\obj\Debug\SmartSoftware_MarkupCompile.lref
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftware\obj\Debug\GlavniProzor.baml
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftware\obj\Debug\SmartSoftware.g.resources
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftware\obj\Debug\SmartSoftware.Properties.Resources.resources
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftware\obj\Debug\SmartSoftware.csproj.GenerateResource.cache
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftware\obj\Debug\SmartSoftware.csproj.CoreCompileInputs.cache
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftware\obj\Debug\SmartSoftware.csproj.CopyComplete
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftware\obj\Debug\SmartSoftware.exe
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftware\obj\Debug\SmartSoftware.pdb
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftware\bin\Debug\SmartSoftware.pdb

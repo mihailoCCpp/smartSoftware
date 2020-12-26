@@ -1,0 +1,33 @@
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftwareWebService\bin\SmartSoftwareWebService.dll.config
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftwareWebService\bin\SmartSoftwareWebService.dll
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftwareWebService\bin\SmartSoftwareWebService.pdb
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftwareWebService\bin\EntityFramework.dll
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftwareWebService\bin\EntityFramework.xml
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftwareWebService\obj\Debug\SmartSoftwareWebService.dll
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftwareWebService\obj\Debug\SmartSoftwareWebService.pdb
+D:\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftwareWebService\obj\Debug\SmartSoftwareWebService.csprojResolveAssemblyReference.cache
+C:\Users\m4r3j_000\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftwareWebService\bin\SmartSoftwareWebService.dll.config
+C:\Users\m4r3j_000\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftwareWebService\bin\SmartSoftwareWebService.dll
+C:\Users\m4r3j_000\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftwareWebService\bin\SmartSoftwareWebService.pdb
+C:\Users\m4r3j_000\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftwareWebService\obj\Debug\SmartSoftwareWebService.dll
+C:\Users\m4r3j_000\Documents\Visual Studio 2015\Projects\SmartSoftware\SmartSoftwareWebService\obj\Debug\SmartSoftwareWebService.pdb
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftwareWebService\bin\SmartSoftwareWebService.dll.config
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftwareWebService\bin\SmartSoftwareWebService.dll
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftwareWebService\bin\SmartSoftwareWebService.pdb
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftwareWebService\obj\Debug\SmartSoftwareWebService.dll
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftwareWebService\obj\Debug\SmartSoftwareWebService.pdb
+F:\Marko\Trenutno\Documents\Visual Studio 2013\Projects\SmartSoftware\SmartSoftwareWebService\obj\Debug\SmartSoftwareWebService.csprojResolveAssemblyReference.cache
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftwareWebService\bin\SmartSoftwareWebService.dll.config
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftwareWebService\bin\SmartSoftwareWebService.dll
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftwareWebService\bin\SmartSoftwareWebService.pdb
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftwareWebService\obj\Debug\SmartSoftwareWebService.csprojResolveAssemblyReference.cache
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftwareWebService\obj\Debug\SmartSoftwareWebService.dll
+D:\Documents\tabs\CKOLA\hostovanje za CV\posao\projekti na GITu\sredjeni za upload\SmartSoftware\SmartSoftwareWebService\obj\Debug\SmartSoftwareWebService.pdb
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftwareWebService\bin\SmartSoftwareWebService.dll.config
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftwareWebService\bin\SmartSoftwareWebService.dll
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftwareWebService\bin\SmartSoftwareWebService.pdb
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftwareWebService\obj\Debug\SmartSoftwareWebService.csprojAssemblyReference.cache
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftwareWebService\obj\Debug\SmartSoftwareWebService.csproj.CoreCompileInputs.cache
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftwareWebService\obj\Debug\SmartSoftwareWebService.csproj.CopyComplete
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftwareWebService\obj\Debug\SmartSoftwareWebService.dll
+C:\Users\mandi\Desktop\gitNovo\smartSoftware\SmartSoftwareWebService\obj\Debug\SmartSoftwareWebService.pdb

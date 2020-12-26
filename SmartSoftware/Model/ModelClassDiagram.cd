@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SmartSoftware.Model.OblastiOpreme" Collapsed="true">
+    <Position X="13.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkAAAAAAAAACAAACIgQIACAAAAAGAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\OblastiOpreme.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartSoftware.Model.Oprema" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAABAAABARQACBMAggiyAaBBqAEQUQGlABAANQBE=</HashCode>
+      <FileName>Model\Oprema.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="listaParametara" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="SmartSoftware.Model.Parametri" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAQAAAAMBCgAwACgAIAAgAAAAAgFQQAABQlAAAAAA=</HashCode>
+      <FileName>Model\Parametri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartSoftware.Model.SmartSoftwareDocument" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.25" Y="8.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAKAAAAAgAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\SmartSoftwareDocument.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SmartSoftware.Model.SmartSoftwareGlavnaOblast" Collapsed="true">
+    <Position X="11.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAgAIAAAIBAAAAAQAQAgAAEAAAAAAgAAAAIAAA=</HashCode>
+      <FileName>Model\SmartSoftwareGlavnaOblast.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SmartSoftware.Model.TipoviOpreme" Collapsed="true">
+    <Position X="11.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAsSAABOEABAGAAAAIAQACDAAAgAGEIQAARQBAAAAAA=</HashCode>
+      <FileName>Model\TipoviOpreme.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
